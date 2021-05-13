@@ -1,0 +1,10 @@
+Fuoco
+Acqua
+Terra
+Aria
+Fulmine
+Ghiaccio
+Ombra
+Luce
+Natura
+Metallo
